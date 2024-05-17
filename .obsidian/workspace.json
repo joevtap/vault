@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "4d6e4719dcdf7286",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc8d9c5d6605a3f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ab1a451cf75277",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "baa67fa18bac8caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7afe4975422e1f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e7da1334c24fd0",
+        "type": "tabs",
+        "dimension": 69.40726577437859,
+        "children": [
+          {
+            "id": "229ec67949f1b824",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edf13473e7aa3560",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tags",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c12dbc1577213e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f4ef3c2933461cbf",
+        "type": "tabs",
+        "dimension": 30.592734225621417,
+        "children": [
+          {
+            "id": "6542eac043025c2f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "1d214c04d7543f1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1fe0835062aad2",
+        "type": "tabs",
+        "dimension": 67.78202676864244,
+        "children": [
+          {
+            "id": "a6c92eea8dcaad44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b8b29617b5cd8d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d469b1594f0f6189",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7f580a1a35a81d8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "02ec06dd163e665a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8fe07822cb5aa5d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "dd28e0cfad6ce946",
+        "type": "tabs",
+        "dimension": 32.217973231357554,
+        "children": [
+          {
+            "id": "86aec2089b511c7e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.29629629629629606,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 552.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "baa67fa18bac8caa",
+  "lastOpenFiles": [
+    "README.md",
+    "COURSE_README.md",
+    "README.md",
+    "material/core/mathematical-thinking/week-1/assignment-1.pdf",
+    "material/core/mathematical-thinking/week-1/supplement-set-theory.pdf",
+    "material/core/mathematical-thinking/week-1/week-1-background-reading.pdf",
+    "FAQ.md",
+    "material/core/mathematical-thinking/week-1/week-1-supplement-set-theory.pdf",
+    "material/core/mathematical-thinking/week-1/week-1-assignment-1.pdf",
+    "material/core/mathematical-thinking/week-1",
+    "material/core/mathematical-thinking/week-1-assignment-1.pdf",
+    "material/core/mathematical-thinking/week-1-assignment-1.pdf.crdownload",
+    "material/core/mathematical-thinking/week-1-supplement-set-theory.pdf",
+    "material/core/mathematical-thinking/week-1-supplement-set-theory.pdf.crdownload",
+    "HELP.md",
+    "CONTRIBUTING.md",
+    "material/core/Untitled.md",
+    "documents/release.md",
+    "CURRICULAR_GUIDELINES.md",
+    "math/documents/release.md",
+    "math/README.md",
+    "math/HELP.md",
+    "math/FAQ.md",
+    "math/CURRICULAR_GUIDELINES.md",
+    "math/CONTRIBUTING.md",
+    "1. knowledge/+ fleeting/202405062117 byron.git - capacitação de git e github.md",
+    "2. journals/20240516.md",
+    "2. journals/20240508.md",
+    "1. knowledge/+ fleeting/202405121732 Revisão tópicos 1 ao 5 de introdução a economia.md",
+    "4. areas/01. reading/01. Reading list.md",
+    "2. journals/20240507.md",
+    "2. journals/20240506.md",
+    "1. knowledge/+ fleeting/202405060702 Coisas para falar na reunião de DPJ.md",
+    "1. knowledge/+ fleeting/202405060701 Aula de economia - Mercado de Fatores de Produção.md",
+    "3. projects/01. scaffold do blog/01. Roadmap.md",
+    "1. knowledge/+ fleeting/202405041754 PWA PoC byron.md",
+    "5. assets/Pasted image 20240430222047.png",
+    "5. assets/Pasted image 20240430221657.png",
+    "5. assets/Pasted image 20240430221153.png",
+    "7. archives/000. assets/Pasted image 20230919073547.png",
+    "7. archives/000. assets/Pasted image 20230919070000.png",
+    "5. assets/Pasted image 20240411073833.png",
+    "6. exports/Teste/plugin/chalkboard/img/blackboard.png",
+    "6. exports/Teste/plugin/chalkboard/img/boardmarker-black.png",
+    "6. exports/Teste/plugin/chalkboard/img/boardmarker-blue.png",
+    "6. exports/Teste/plugin/chalkboard/img/boardmarker-green.png"
+  ]
+}

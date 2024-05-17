@@ -1,0 +1,22 @@
+{
+  "propertiesInDocument": "source",
+  "tabSize": 4,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1. knowledge",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "5. assets",
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

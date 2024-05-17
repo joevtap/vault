@@ -1,0 +1,11 @@
+{
+  "accentColor": "#4b6fc3",
+  "baseFontSize": 18,
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "theme": "system",
+  "cssTheme": "",
+  "textFontFamily": "Merriweather",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono"
+}

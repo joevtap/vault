@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiTarget",
+      "LiTextCursor",
+      "LiListTodo",
+      "LiCrosshair",
+      "LiSignpost"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "1. knowledge": "LiBookOpen",
+  "2. journals": "LiPenTool",
+  "1. knowledge/+ fleeting": "LiWind",
+  "1. knowledge/+ permanent": "LiBrainCircuit",
+  "1. knowledge/+ literature": "LiFileStack",
+  "1. knowledge/1. Home.md": "LiHome",
+  "1. knowledge/2. Artigos.md": "LiNewspaper",
+  "5. assets": "LiImages",
+  "7. archives": "LiArchive",
+  "6. templates": "LiLayoutTemplate",
+  "4. areas": "LiSignpost",
+  "3. projects": "LiTarget",
+  "4. areas/01. reading": "LiBook",
+  "4. areas/01. reading/01. Reading list.md": "LiListTodo",
+  "3. projects/01. scaffold do blog": "LiTextCursor"
+}
